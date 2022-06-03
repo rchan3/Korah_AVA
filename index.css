@@ -1,0 +1,10 @@
+.AVA_container {
+  position: relative;
+}
+
+#AVA_overlay_video {
+  z-index: 3;
+  position: absolute;
+  visibility: hidden;
+  left: 0;
+}
